@@ -3,7 +3,7 @@
 A statistical analysis of ~38,000 Australian charities, testing whether a charity's *purpose* (its registered subtypes) is associated with its *size*, and being honest about the difference between a statistically significant result and a meaningful one.
 
 ## Key finding
-Charitable purpose is mostly **unrelated** to organisational size. With a sample this large, almost every association is "statistically significant" — but effect sizes reveal that only two purposes are *practically* meaningful:
+Charitable purpose is mostly **unrelated** to organisational size. With a sample this large, almost every association is "statistically significant"; but effect sizes reveal that only two purposes are *practically* meaningful:
 **Public Benevolent Institutions** skew large, 
 **religious charities** skew small. 
 Everything else is significant-but-negligible, a textbook case of significance without magnitude.
@@ -28,8 +28,10 @@ At first glance, I expected that different charity types would have different ty
 - **A permutation test** was conducted as an assumption-free cross-check on the analytic chi-square p-values (they agreed).
 
 ## Results
+### Summary Table
 ![Cramér's V](figures/acnc-table.png)
 
+### Beneficiary Ranking
 ![Beneficiary ranking](figures/beneficiary_ranking.png)
 
 ## Key limitations (what this analysis cannot claim)
