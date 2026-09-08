@@ -28,7 +28,7 @@ At first glance, I expected that different charity types would have different ty
 - **A permutation test** was conducted as an assumption-free cross-check on the analytic chi-square p-values (they agreed).
 
 ## Results
-![Cramér's V](figures/acnc-summary.png)
+![Cramér's V](figures/acnc-table.png)
 
 ![Beneficiary ranking](figures/beneficiary_ranking.png)
 
