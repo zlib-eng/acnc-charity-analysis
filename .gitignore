@@ -1,0 +1,10 @@
+# data — never commit raw datasets
+data/*.csv
+data/*.xlsx
+
+# python junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.env
